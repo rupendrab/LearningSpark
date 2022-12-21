@@ -3,3 +3,5 @@
 **/.ipynb_checkpoints
 notebooks/data/Fire_Department_Calls_for_Service.csv
 **/spark-warehouse/**
+**/notebooks/data/output/**
+!**/notebooks/data/output/placeholder.txt
