@@ -1,0 +1,5 @@
+**/__pycache__/**
+.vscode/*
+**/.ipynb_checkpoints
+notebooks/data/Fire_Department_Calls_for_Service.csv
+**/spark-warehouse/**
